@@ -41,7 +41,8 @@ Based on the number value you enter, many new choice will come to the terminal s
 
 <h2> Mathysic Discord Bot Usage </h2>
 As in the terminal application, this bot is an open-source bot. You can easily add this bot to your Discord server. A link to add the bot:<br>
-
+https://discord.com/api/oauth2/authorize?client_id=891931990243307520&permissions=517543880768&scope=bot
+<br> <br>	
 
 Now let's learn the necessary commands to use the bot.<br><br>
 <b> Note:</b> We use the 'm/' before the commands. Because we need to specify that this is  a mathysic's command.
